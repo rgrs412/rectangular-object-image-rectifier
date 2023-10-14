@@ -24,3 +24,6 @@
 
 ### Superimposed Lines on Hough
 ![Superimposed Lines on Hough](/sample_images/others/superimposed_hough.png)
+
+### Rectified Image
+![Rectified Image](/sample_images/others/rectified_image.png)
